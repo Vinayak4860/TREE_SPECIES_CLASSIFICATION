@@ -236,7 +236,7 @@ joblib>=1.3.0          # Model serialization
 ### Step 1: Environment Setup
 ```bash
 # Clone repository
-git clone https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION.git
+git clone https://github.com/Vinayak4860/TREE_SPECIES_CLASSIFICATION.git
 cd TREE_SPECIES_CLASSIFICATION
 
 # Create virtual environment (recommended)
@@ -403,11 +403,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Author**: Bhavuk Vinayak
 **GitHub**: [@Vinayak4860](https://github.com/Vinayak4860)  
-**Repository**: [TREE_SPECIES_CLASSIFICATION](https://github.com/Vinayak4860/repo)
+**Repository**: [TREE_SPECIES_CLASSIFICATION](https://github.com/Vinayak4860/TREE_SPECIES_CLASSIFICATION)
 
 ### Getting Help
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/Vinayak4860/repo/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/Vinayak4860/repo/discussions)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/Vinayak4860/TREE_SPECIES_CLASSIFICATION/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/Vinayak4860/TREE_SPECIES_CLASSIFICATION/discussions)
 - 📧 **General Questions**: Contact via GitHub
 
 ---
